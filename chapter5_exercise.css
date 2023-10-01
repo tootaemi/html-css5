@@ -6,7 +6,8 @@
 }
 
 header {
-  width: 100%; /* 横幅90% */
+  width: 100%;
+  /* 横幅90% */
   padding: 20px 0;
   text-align: center;
 }
